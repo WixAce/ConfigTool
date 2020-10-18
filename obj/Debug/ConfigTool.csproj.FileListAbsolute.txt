@@ -1,0 +1,2 @@
+Y:\Desktop\Sunegg\Unity\Projects\Yanghe\Special\ConfigTool\obj\Debug\ConfigTool.csprojAssemblyReference.cache
+Y:\Desktop\Sunegg\Unity\Projects\Yanghe\Special\ConfigTool\obj\Debug\ConfigTool.csproj.CoreCompileInputs.cache

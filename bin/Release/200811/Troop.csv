@@ -1,0 +1,4 @@
+唯一编号,名称,攻击属性,防御属性,速度属性,统率属性,粮耗率
+Id,Name,Attack,Defence,Speed,Dominance,FoodCost
+1,长剑步兵,0,1,0,0,1
+2,猎弓手,1,0,0,0,1.2

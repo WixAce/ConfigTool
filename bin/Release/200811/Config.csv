@@ -1,0 +1,12 @@
+玩家配置,玩家初始金币,初始攻击,初始防御,初始速度,初始统率,攻击上限,防御上限,速度上限,统率上限,装备库上限,最大伙伴上限,初始兵员,初始食物
+PlayerId,Money,Attack,Defence,Speed,Dominance,MaxAttack,MaxDefence,MaxSpeed,MaxDominance,MaxInventorySlot,MaxTeammateSlot,Population,Food
+1,5000,1,1,1,1,9,9,9,9,65,70,0,0
+,,,,,,,,,,,,,
+神盒配置,名称,S概率,A概率,B概率,C概率,D概率,价格,,,,,,
+BoxId,Name,ChanceS,ChanceA,ChanceB,ChanceC,ChanceD,Price,,,,,,
+1,乐色桶,0,0,10,30,60,2,,,,,,
+2,神盒,0,0,20,80,0,10,,,,,,
+,,,,,,,,,,,,,
+战斗配置,伙伴上限,敌方上限,回合上限,,,,,,,,,,
+BattleId,MaxTeammate,MaxEnemy,MaxRound,,,,,,,,,,
+1,3,3,8,,,,,,,,,,
